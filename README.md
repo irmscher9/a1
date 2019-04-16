@@ -1,10 +1,5 @@
-# a1
-# source ~/.bash_aliases
-
 alias ..='cd ..'
 alias dx='deactivate; exit'
-# alias ave='source ~/venv/scripts/activate'
-# alias sve='. venv/scripts/activate'
 alias ave='. venv/scripts/activate'
 alias dea='deactivate'
 alias pl='pip list'
